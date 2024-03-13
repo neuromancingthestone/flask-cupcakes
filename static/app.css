@@ -1,0 +1,21 @@
+table{
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+td{
+    border: 3px solid white;
+    width: 200px;
+    height: 200px;
+    font-family: 'Copse';
+    text-align: left;  
+  }
+
+img {
+    width: 200px;
+    height: 200px;
+  }    
+
+  ul li{
+    font-size:20px;
+   }
